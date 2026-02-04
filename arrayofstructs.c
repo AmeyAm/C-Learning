@@ -10,7 +10,7 @@ int main(){
 
     Car cars[] = {{"Mustang", 2025, 32000},
                   {"Corvette", 2026, 68000},
-                  {"Challenger", 2025, 28000}};
+                  {"Challenger", 2024, 28000}};
 
     int number = sizeof(cars) / sizeof(cars[0]);
 
